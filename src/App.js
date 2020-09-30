@@ -209,7 +209,7 @@ Amet minim mollit non deserunt ullamco est sit aliqua dolor do amet sint. Velit 
     the website was great, very good customer service, an all round great experience. I would definately be coming back!</p>
   </div>
   <div className="col-lg-6">
-     <img  src={img9}  style={{height:"90%", width:"90%"}}/>
+     <img  src={img9}  className="img-fluid" style={{height:"100%", width:"100%"}}/>
   </div>
 </div>
 
